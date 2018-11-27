@@ -5,9 +5,14 @@ ESP32 ISS signaler
 Using the ESP32
 
 # REQUIREMENTS
- 5.1.1 - ARDUINOJSON
- PaulStoffregen's - Time Library
 
+ 5.1.1 - ARDUINOJSON
+ 
+ PaulStoffregen's - Time Library
+ 
+ 
+ 
+# Links
 To switch the LED Data strip pin go to  fastledsetup.h#L17
 
 https://github.com/zombodotcom/ISSBOARD/blob/f7689d90ce0245742cba50212ca73bd6fa950a41/fastledsetup.h#L17
